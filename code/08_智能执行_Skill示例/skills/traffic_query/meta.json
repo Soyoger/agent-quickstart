@@ -1,0 +1,8 @@
+{
+  "name": "traffic_query",
+  "version": "1.0.0",
+  "description": "查询实时交通状况和路线规划",
+  "author": "AI Assistant",
+  "category": "navigation",
+  "tags": ["traffic", "route", "navigation", "congestion"]
+}

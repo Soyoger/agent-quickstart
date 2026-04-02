@@ -1,0 +1,8 @@
+{
+  "name": "weather_query",
+  "version": "1.0.0",
+  "description": "查询指定城市的天气信息",
+  "author": "AI Assistant",
+  "category": "utility",
+  "tags": ["weather", "query", "forecast"]
+}
