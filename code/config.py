@@ -1,0 +1,2 @@
+base_url = 'https://api.siliconflow.cn/v1'
+api_key = 'your_api_key'
