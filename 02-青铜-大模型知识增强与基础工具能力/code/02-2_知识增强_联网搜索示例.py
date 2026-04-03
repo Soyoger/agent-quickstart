@@ -1,3 +1,5 @@
+import sys
+sys.path.append('../../agent-quickstart')
 import json
 from openai import OpenAI
 from config import base_url, api_key

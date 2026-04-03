@@ -4,6 +4,8 @@
 核心逻辑：While 循环，包含 Thought -> Action -> Observation 的迭代过程。
 """
 
+import sys
+sys.path.append('../../agent-quickstart')
 import json
 from openai import OpenAI
 import config

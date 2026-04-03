@@ -1,4 +1,6 @@
 
+import sys
+sys.path.append('../../../agent-quickstart')
 import asyncio
 import json
 from openai import OpenAI

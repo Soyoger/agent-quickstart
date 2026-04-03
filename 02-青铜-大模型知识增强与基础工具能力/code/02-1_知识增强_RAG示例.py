@@ -1,3 +1,5 @@
+import sys
+sys.path.append('../../agent-quickstart')
 import faiss
 import numpy as np
 import requests

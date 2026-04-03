@@ -1,3 +1,5 @@
+import sys
+sys.path.append('../../agent-quickstart')
 import json
 import inspect
 import asyncio

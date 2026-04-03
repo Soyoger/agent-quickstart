@@ -1,10 +1,10 @@
+import sys
+sys.path.append('../../../agent-quickstart')
 import os
 import json
 import subprocess
 from pathlib import Path
 from typing import Dict, Any, List
-import sys
-sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from config import api_key, base_url
 from openai import OpenAI
 
