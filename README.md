@@ -8,7 +8,7 @@
 
 ## 🌟 大模型智能进化图谱
 
-我们将大模型的能力演进划分为六个”段位”，每个段位都代表了解决特定问题的关键技术。
+我们将大模型的能力演进划分为七个”段位”，每个段位都代表了解决特定问题的关键技术。
 
 ### 1. 铸铁：基础交互（LLM as a Chatbot）
 *   **核心痛点**：如何让模型听懂指令？
@@ -54,6 +54,13 @@
     *   📖 [06-钻石-大模型智能执行能力.md](06-钻石-大模型智能执行能力/doc/06-钻石-大模型智能执行能力.md)
     *   💻 [06_智能执行_Skill示例.py](06-钻石-大模型智能执行能力/code/06_智能执行_Skill示例/06_智能执行_Skill示例.py)
 
+### 7. 星钻：Harness Engineering（智驾全局，质控为王）
+*   **核心痛点**：Agent 从 Demo 到生产时，缺乏统一质量基线，优化是否有效无法量化，版本回退难以及时发现。
+*   **技术内涵**：**Harness Engineering（评测跑道工程）**。通过标准测试集、自动化执行器、结构化评估器和回归门禁，把 Agent 能力变成“可测量、可回归、可治理”的工程资产。
+*   **相关资源**：
+    *   📖 [07-星钻-HarnessEngineering.md](07-星钻-HarnessEngineering/doc/07-星钻-HarnessEngineering.md)
+    *   💻 [07_HarnessEngineering_示例.py](07-星钻-HarnessEngineering/code/07_HarnessEngineering_示例.py)
+
 ---
 
 ## 🛠️ 快速开始
@@ -87,7 +94,7 @@ python “04-黄金-Agent智能代理/code/04_ReactAgent_示例.py”
 - [x] 黄金 - ReAct Agent
 - [x] 铂金 - MCP 协同
 - [x] 钻石 - Skill 封装
-- [ ] 星钻 - 虚位以待
+- [x] 星钻 - Harness Engineering
 - [ ] 暗物质 - 虚位以待
 
 ---
